@@ -1,1 +1,12 @@
-Still forthcoming
+#This is my solution but you might have a different one
+for i in range(0,20):
+    output = ""
+    if i % 2:
+        output += "Wub"
+    if i % 3:
+        output += "Lubba"
+    if i % 5:
+        output += "Dub-Dub"
+    if output:
+        output += "!"
+    print(output)
