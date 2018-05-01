@@ -1,0 +1,4 @@
+
+c = 5
+if (c % 5 == 0):
+  #do something
