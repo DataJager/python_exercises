@@ -10,6 +10,7 @@ When the number is 6, the program should print "WubLubba!"
 When the number is 15, the program should print "LubbaDub-Dub!"
 When the number is 20, the program should print "Wub Dub-Dub!"
 
-Hints are contained in exercise1_hints#.txt
+Hints are contained in exercise1_hint#.txt
+Hints get progressively more revealing so start with the first and see how many you need
 
 This is designed to require some research and there are many ways to solve it, there is no single correct solution
