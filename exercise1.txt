@@ -1,0 +1,15 @@
+Rick has made a new machine that translates text to speech and now needs it to spout off his catch phrases.
+He's told you to make a program that counts from 0 to 20 and prints out the following words:
+Whenever the number is evenly divisible by 2 print "Wub"
+Whenever the number is evenly divisible by 3 print "Lubba"
+Whenever the number is evenly divisible by 5 "Dub-Dub"
+Each word should have spaces on both sides.
+Everything that prints out should end with a "!"
+For example:
+When the number is 6, the program should print "WubLubba!"
+When the number is 15, the program should print "LubbaDub-Dub!"
+When the number is 20, the program should print "Wub Dub-Dub!"
+
+Hints are contained in exercise1_hints#.txt
+
+This is designed to require some research and there are many ways to solve it, there is no single correct solution
