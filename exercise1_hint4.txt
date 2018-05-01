@@ -1,0 +1,7 @@
+Strings can be put together with the + and you can add strings to themselves
+For Example
+somestring = "Wub"
+somestring = somestring + "Lubba"
+somestring = "Dub-Dub" + somestring
+print(somestring)
+#output is "Dub-DubWubLubba"
