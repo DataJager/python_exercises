@@ -4,10 +4,13 @@ Whenever the number is evenly divisible by 2 print "Wub"
 Whenever the number is evenly divisible by 3 print "Lubba"
 Whenever the number is evenly divisible by 5 "Dub-Dub"
 Every line that prints out should end with a "!"
+If none of these conditions are met, print a blank line.
+
 For example:
 When the number is 6, the program should print "WubLubba!"
 When the number is 15, the program should print "LubbaDub-Dub!"
 When the number is 20, the program should print "Wub Dub-Dub!"
+When the number is 7, print a blank line.
 
 Hints are contained in exercise1_hint#.txt
 Hints get progressively more revealing so start with the first and see how many you need
